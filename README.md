@@ -1,5 +1,8 @@
 # live-translator
 
+![Python](https://img.shields.io/badge/Python-sounddevice-3776AB?logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-transcription%20%2B%20translation-412991?logo=openai&logoColor=white)
+
 Real-time bidirectional audio translation for meetings — captures system audio (via BlackHole on macOS), transcribes and translates on the fly, and shows both languages in a small desktop GUI.
 
 ## How it works
